@@ -1,3 +1,5 @@
+[![smake](https://github.com/http87/hexlet-ci-app/actions/workflows/make.yml/badge.svg)](https://github.com/http87/hexlet-ci-app/actions/workflows/make.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
